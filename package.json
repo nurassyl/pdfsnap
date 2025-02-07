@@ -1,6 +1,6 @@
 {
   "name": "pdfsnap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Node.js utility to convert the first page of a PDF to an image using pdftoppm.",
   "main": "pdfsnap.js",
   "scripts": {},

@@ -5,6 +5,10 @@
   "main": "pdfsnap.js",
   "scripts": {},
   "keywords": ["pdf", "image", "converter", "pdftoppm", "nodejs"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurassyl/pdfsnap.git"
+  },
   "author": "Nurassyl Aldanov <me@nurassyl.kz>",
   "license": "MIT",
   "dependencies": {}

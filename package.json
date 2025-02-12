@@ -1,6 +1,6 @@
 {
   "name": "pdfsnap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js utility for converting a PDF to a PNG or JPEG image using pdftoppm.",
   "main": "pdfsnap.js",
   "scripts": {},

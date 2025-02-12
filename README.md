@@ -1,9 +1,8 @@
 # pdfsnap
 
-**pdfsnap** is a simple Node.js utility to convert the first page of a PDF into an image using `pdftoppm` from Poppler.
+**pdfsnap** is a simple Node.js utility for converting a PDF to a PNG or JPEG image using `pdftoppm`.
 
 ## Features
-- Extracts the **first page** of a PDF and converts it to an image.
 - Supports **PNG** and **JPEG** formats.
 - Uses `pdftoppm` for fast and accurate conversion.
 - Simple API for easy integration.

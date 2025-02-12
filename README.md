@@ -22,10 +22,14 @@ sudo apt update && sudo apt install poppler-utils -y
 brew install poppler
 ```
 
-Then, install **pdfsnap** via npm:
+Then, install **pdfsnap** via npm or yarn:
 
 ```sh
 npm install pdfsnap
+```
+
+```sh
+yarn add pdfsnap
 ```
 
 ## Usage
@@ -37,10 +41,10 @@ pdfsnap({
   pdfPath: 'sample.pdf',
   outputPath: 'output.png',
   format: 'png',
-  dpi: 300
+  dpi: 300,
 })
-.then(filePath => console.log('Image saved at:', filePath))
-.catch(error => console.error('Error:', error));
+  .then(filePath => console.log('Image saved at:', filePath))
+  .catch(error => console.error('Error:', error));
 ```
 
 ## License

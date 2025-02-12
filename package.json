@@ -1,10 +1,10 @@
 {
   "name": "pdfsnap",
-  "version": "1.0.1",
-  "description": "A simple Node.js utility to convert the first page of a PDF to an image using pdftoppm.",
+  "version": "1.0.2",
+  "description": "A Node.js utility for converting a PDF to a PNG or JPEG image using pdftoppm.",
   "main": "pdfsnap.js",
   "scripts": {},
-  "keywords": ["pdf", "image", "converter", "pdftoppm", "nodejs"],
+  "keywords": ["pdf", "pdfjs", "converter", "pdf-to-img", "pdf2img", "pdf-to-png", "pdf2png", "pdf-to-jpeg", "pdf2jpeg", "pdf-to-jpg", "pdf2jpg", "pdf-converter", "pdf-to-image", "pdf2pic", "pdf-to-pic", "pdf-image", "pdf-img-convert", "pdftoimage", "jpeg", "png", "jpg", "pdf parse", "pdf to image", "pdf to png", "pdf to jpeg"],
   "repository": {
     "type": "git",
     "url": "https://github.com/nurassyl/pdfsnap.git"
